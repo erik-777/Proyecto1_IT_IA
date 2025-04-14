@@ -111,3 +111,28 @@ En conclusión, el modelo propuesto mejora significativamente la detección temp
 ---
 
 # 8. Referencias
+
+- Nagarajan I., L. P. (2025). A comprehensive review on early detection of Alzheimer's disease using various deep learning techniques. Frontiers in Computer Science, 6.
+
+- Long, S. B. (2023). Informe Mundial Sobre el Alzheimer 2023: Cómo reducir el riesgo de demencia: nunca es demasiado pronto, nunca es demasiado tarde. Londres: Alzheimer’s Disease International.
+
+- Shankar, G. y. (2009). Enfermedad de Alzheimer: disfunción sináptica y Aβ. Molecular Neurodegeneration, 1-13.
+
+- Min.Salud. (2024). Boletín técnico: Personas mayores. Bogota: Ministerio de Salud.
+
+- Lastre Meza, K. A. (2020). Efectos del programa para la estimulación y el mantenimiento cognitivo en demencias (Córtex) en una institución de Sincelejo (Colombia). Revista Virtual Universidad Católica del Norte, 133-149.
+
+- Norte, U. d. (04 de 06 de 2024). Universidad del Norte. Obtenido de Universidad del Norte: https://www.uninorte.edu.co/web/grupo-prensa/w/estudio-le-apunta-al-diagnostico-personalizado-en-la-enfermedad-de-alzheimer
+
+- Cely Calixto, N. J. (2023). Conceptos y enfoques de metodología de la investigación. (E. C. S.A.S, Ed.) San José de Cúcuta, Colombia: Universidad Francisco de Paula Santander.
+
+- Standardization., n. O. (2013). Systems and software engineering — Software life cycle processes. Obtenido de ISO: https://www.iso.org/standard/63712.html
+
+- Min.Ciencias. (30 de 11 de 2021). MinCiencias. Obtenido de MinCiencias: https://minciencias.gov.co/sites/default/files/upload/convocatoria/anexo_9_-_niveles_de_madurez_tecnologica_y_de_manufactura-_trl_y_mrl.pdf
+
+- Rojas, G. (25 de Julio de 2013). Innovación tecnológica y desarrollo de ventaja competitiva en la atención a la salud: enfoque conceptual y metodológico. Revista Gerencia y Políticas de Salud, Vol. 12, 1657 -7027.
+
+- Veloza, A. P. (2023). Factores de predicción para la detección temprana de trastornos neurocognitivos en personas institucionalizadas en centros de protección social pertenecientes a la beneficencia de Cundinamarca. 1 -23.
+Alzeimer.gov. (9 de 12 de 2024). 
+
+- Alzeimer.gov. Obtenido de https://www.alzheimers.gov/es/alzheimer-demencias/enfermedad-alzheimer
