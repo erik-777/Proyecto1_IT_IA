@@ -3,13 +3,13 @@
 ### Modelo de Machine Learning para la detección en fases tempranas de signos neurocognitivos asociados a la enfermedad del Alzheimer en personas adultas del departamento de Sucre.
 
 
-Erik Dair Vergara Hernandez
+* Erik Dair Vergara Hernandez
 
-evergarah2000@gmail.com, 1193295077@u.icesi.edu.co
+    * evergarah2000@gmail.com, 1193295077@u.icesi.edu.co
 
-Farid Camilo Sandoval Sarria
+* Farid Camilo Sandoval Sarria
 
-FARIDCAMILO26@HOTMAIL.COM
+    * FARIDCAMILO26@HOTMAIL.COM
 
 ---
 
