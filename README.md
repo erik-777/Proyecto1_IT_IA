@@ -7,6 +7,10 @@ Erik Dair Vergara Hernandez
 
 evergarah2000@gmail.com, 1193295077@u.icesi.edu.co
 
+Farid Camilo Sandoval Sarria
+
+FARIDCAMILO26@HOTMAIL.COM
+
 ---
 
 # 2. Abstract (Resumen)
@@ -15,11 +19,34 @@ En la actualidad, debidos a los avances tecnológico, día a día las personas e
 
 Por esta razón, la tecnología avanza a pasos agigantados buscando desarrollar herramientas que permitan hacer más sencilla las tareas en cada uno de los campos de acción.
 
-De acuerdo con (Rojas, 2013) Uno de los campos más influyentes y que más uso hace de la tecnología para su desarrollo es la medicina, la cual se ha consolidado como una ciencia necesaria para la preservación humana. La creación de Software y hardware que supla la gran demanda tecnológica que tiene la medicina, es una de las más grandes de todos los campos de acción en el que la tecnología es necesaria.
+De acuerdo con Rojas (2013) Uno de los campos más influyentes y que más uso hace de la tecnología para su desarrollo es la medicina, la cual se ha consolidado como una ciencia necesaria para la preservación humana. La creación de Software y hardware que supla la gran demanda tecnológica que tiene la medicina, es una de las más grandes de todos los campos de acción en el que la tecnología es necesaria.
 
-En ese sentido es importante mencionar y en concordancia con (Veloza, 2023) Los trastornos neurocognitivos vienen aumentando de manera significativa en la población de personas mayores. A partir de esto, resulta importante comprender este fenómeno como el resultado de una multiplicidad de variables donde el contexto social y la afectación intelectual establecen elementos de estudio acordes con la identificación de factores de riesgo y/o contributivos.
+En ese sentido es importante mencionar y en concordancia con Veloza (2023) Los trastornos neurocognitivos vienen aumentando de manera significativa en la población de personas mayores. A partir de esto, resulta importante comprender este fenómeno como el resultado de una multiplicidad de variables donde el contexto social y la afectación intelectual establecen elementos de estudio acordes con la identificación de factores de riesgo y/o contributivos.
 
 Acorde a lo mencionado, la enfermedad de Alzheimer es un trastorno cerebral que destruye lentamente la memoria y la capacidad de pensar y, con el tiempo, la habilidad de llevar a cabo hasta las tareas mas sencillas. Las personas con Alzheimer también experimentan cambios en la conducta y la personalidad. (Alzeimer.gov, 2024)
+
+---
+# 3. Planteamiento del Problema
+
+Uno de los desafíos crecientes a nivel mundial son los ligados a la enfermedad del Alzheimer y otros trastornos neurodegenerativos, los cuales tienen unas proyecciones de crecimiento significativas en los próximos años, (Long, 2023)
+
+En ese sentido el Alzheimer (EA), Según Shankar (2009), es una afección neurodegenerativa que deteriora la función cerebral y destruye las células cerebrales, afectando la memoria y generando inestabilidades en la existencia humana.
+
+De acuerdo con el estudio por parte de Lastre (2020) en donde se menciona que la OMS Calcula que hay más de 47 Millones de personas con demencia y deterioro en el mundo, y se prevé que esta cifra aumente a 75 millones de personas a 2030, la OMS estima que el número de caso se triplicara para el 2050.
+
+La urgencia y necesidad de una detección rápida y precisa de la enfermedad no se puede subestimar, Esto es necesario debido a la expansión económica, el crecimiento de la tecnología de la información y el advenimiento de las tecnologías de procesamiento de información clínica. La detección temprana no es solo una necesidad médica, sino una responsabilidad social, y el papel en este proceso es crucial (Nagarajan I., 2025)
+
+En el contexto nacional, Según el Boletín Técnico: Personas Mayores (Min.Salud, 2024), En Colombia, la cantidad de personas mayores está experimentando un crecimiento acelerado, lo que plantea nuevos retos y oportunidades para el bienestar de este grupo tan importante de la sociedad.
+
+Según las proyecciones de población desarrolladas por el Departamento Administrativo Nacional de Estadística (DANE), en el año 2024, en Colombia existen 52´695.952 colombianos, de los cuales 25´718.840 son hombres y 26´977.112 son mujeres. De ellos 7´891.331 son personas mayores, que equivalen al 15%, 3´507.851 son hombres y 4´383.480 mujeres, 44% y 56%, respectivamente.
+
+De esta población referente a su estado de Salud, en cuanto a enfermedades no transmisibles cabe resaltar que estas representan las principales causas de atención. Dentro de estas los mayores motivos de consulta incluyen signos y síntomas mal definidos, enfermedades musculoesqueléticas, cardiovasculares, genitourinarias y condiciones neuropsiquiátricas. Por otro lado, las principales causas de atención en salud mental están relacionadas con la ansiedad, seguida de epilepsia, depresión y consumo de sustancias psicoactivas, siendo este último más prevalente en hombres.
+
+Así mismo es importante mencionar que Según La universidad del Norte (2024) La enfermedad de Alzheimer es la principal causa de demencia primaria en Colombia. Desafortunadamente, la edad promedio de diagnóstico se encuentra alrededor de los 60-70 años. Hasta el momento, no existe una prueba única que pueda diagnosticar alzhéimer de manera temprana, especialmente en poblaciones poco estudiadas y en países en vías de desarrollo. En su lugar, el diagnóstico se basa en una combinación de historia clínica, exploración física, pruebas cognitivas e imágenes cerebrales.
+
+Analizando las estadísticas a nivel departamental, se identifica que no se tienen cifras actualizada que permitan estudiar el estado actual con referente al Alzheimer, por consiguiente, se podría inferir a través de la tendencia nacional en donde los niveles de envejecimiento poblacional son crecientes.
+
+En este contexto, y teniendo en cuenta que los diagnósticos tardíos, representan una falta de enfoques preventivos (Norte, 2024),  atreves del presente proyecto se busca realizar un estudio a fondo haciendo uso de los avances tecnológicos en materia de Machine Learning y Análisis de Datos, que permitan a través de Modelos Predictivos realizar detecciones tempranas de signos Neurocognitivos  que puedan ayudar a identificar posible enfermedades de demencia como el Alzheimer, permitiendo a los entes de salud territorial tener un sistema de información inicial rápido y preciso relacionado al área de estudio.
 
 ---
 
