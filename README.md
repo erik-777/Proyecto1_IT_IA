@@ -48,6 +48,30 @@ Analizando las estadísticas a nivel departamental, se identifica que no se tien
 
 En este contexto, y teniendo en cuenta que los diagnósticos tardíos, representan una falta de enfoques preventivos (Norte, 2024),  atreves del presente proyecto se busca realizar un estudio a fondo haciendo uso de los avances tecnológicos en materia de Machine Learning y Análisis de Datos, que permitan a través de Modelos Predictivos realizar detecciones tempranas de signos Neurocognitivos  que puedan ayudar a identificar posible enfermedades de demencia como el Alzheimer, permitiendo a los entes de salud territorial tener un sistema de información inicial rápido y preciso relacionado al área de estudio.
 
+### 3.1 Pregunta de Investigación
+
+
+Teniendo en cuenta lo anteriormente expuesto, y debido al enfoque del uso de los avances tecnológicos para sofisticar y facilitar los diagnósticos que a su vez conlleva a un manejo eficiente de la enfermedad del Alzheimer, surge la siguiente pregunta:_**¿Como el diseño e implementación de un Modelo de Machine Learning puede sofisticar y mejorar la detección en fases temprana de signos neurocognitivos asociados a la enfermedad del Alzheimer en personas adultas del departamento de sucre?**_
+
+---
+# 4. Objetivos
+
+## Objetivo General
+
+* Diseñar e Implementar un Modelo de Machine Learning, que permita la detección temprana de Signos neurocognitivo asociados al Alzheimer en personas adultas del departamento de sucre.
+
+## Objetivos Específicos
+
+* Identificar las variables biológicas y psicológicas más relevantes que permitan la detección de signos neurocognitivos.
+
+* Entrenar y Comparar modelos de Aprendizaje automático, teniendo en cuenta las variables establecidas anteriormente.
+
+* Diseño y Construcción de Prototipos funcionales de una plataforma web que permita a través del reconocimiento de voz obtener las entradas de forma sencilla y amigable para el público objetivo.
+
+* Desarrollo de una API REST que integre el modelo de Machine Learning y Técnicas de Reconocimiento de Voz, para la detección temprana de Signos neurocognitivos.
+
+* Validar el funcionamiento del sistema en entornos controlados y condiciones de uso reales, siguiendo protocolos científicos de valor y estándares de calidad.
+
 ---
 
 # 3. Introducción
@@ -70,7 +94,7 @@ La detección temprana de fallos en motores industriales es crítica para reduci
 
 # 4. Metodología
 
-**Qué contiene:**
+<!-- **Qué contiene:**
 
 - Descripción detallada del enfoque y las técnicas utilizadas.  
 - Explicación de los datos: cómo fueron recolectados y preprocesados.  
@@ -82,7 +106,41 @@ Permite replicar el experimento o análisis. Es crucial que sea clara y transpar
 
 **Ejemplo:**
 
-Se utilizaron datos de vibración y temperatura de sensores instalados en motores industriales...
+Se utilizaron datos de vibración y temperatura de sensores instalados en motores industriales... -->
+
+El presente trabajo se enmarca bajo los lineamientos de la Investigación Aplicada y Desarrollo Experimental, con un Enfoque Cuantitativo, de acuerdo con Cely (2023) Este enfoque se utiliza más que todo en procesos que por su naturaleza son medibles o cuantificables, y también son valores de carácter numérico en el cual se obtienen resultados de frecuencia, medición y parámetros de las conclusiones que son sacadas de una población de interés, y de esa manera probar las ideas establecidas anticipadamente.
+
+Además se  utilizará la normativa ISO/IEC/IEEE 12207:2017 la cual es el estándar para los procesos de ciclo de vida del software de la organización ISO, establece: “Un marco común para los procesos del ciclo de vida de los programas informáticos, con una terminología bien definida, a la que pueda remitirse la industria del software Contiene procesos, actividades y tareas aplicables durante la adquisición, el suministro, el desarrollo, el funcionamiento, el mantenimiento o la eliminación de sistemas, productos y servicios informáticos. Estos procesos del ciclo de vida se llevan a cabo mediante la participación de los interesados, con el objetivo final de lograr la satisfacción del cliente”. (Standardization., 2013)
+
+Se parte desde un Nivel de Madurez Tecnológica – TRL 1 (Prueba Experimental del Concepto) debido a que las actividades son fuertemente de investigación y desarrollo debido incluyen estudios analíticos y estudios a escala laboratorio para validar físicamente las predicciones de los elementos separados de la tecnología. Hasta un Nivel TRL 6 (Demostración del Desarrollo en entorno pertinente) debido a que se plantea un sistema en validación en ambiente en condiciones relevantes a las reales operativas (Min.Ciencias, 2021).
+
+### Fase 1: Análisis Teórico (Meses 1 - 2):
+
+Se realizará un análisis y selección rigurosa de la información necesaria para el desarrollo de trabajo. Asimismo, se identificarán y se determinarán las variables relevantes para el estudio. El objetivo de esta etapa es realizar una síntesis de los aspectos que, de acuerdo con la literatura académica y a consultas médicas, son las importantes para la detección temprana de la enfermedad de Alzheimer (EA).
+
+### Fase 2: Recolección de Datos (Meses 3 - 5):
+
+Se realizará una búsqueda rigurosa de datos estadísticos e información relacionada a la enfermedad, teniendo en cuenta que sean fuentes recientes y completamente confiables. Para ello se consultará a entidades medicas de la región, se hará uso de documentos especializados en neurológia y conceptos de expertos en el tema. De la información a recolectar deben ser reportes de los diagnósticos de pacientes que han presentado EA facilitado por la comunidad médica.
+
+### Fase 3: Desarrollo y Validación de Modelos LM (Meses 6 - 7): 
+
+Una vez determinadas las variables relevantes con sus respectivos Dataset y las bases de datos con la cual se abordará el modelo de detección en fases temprana, en ese sentido se abordará teniendo en cuenta las bases de datos disponibles, es decir se realizará una comparativa rigurosa de los diferentes métodos de Machine Learning que se puedan usar, seleccionando el que mejor se ajuste.
+
+### Fase 4: Diseño y Desarrollo de UI (8 - 10):
+
+En esta fase, se llevará a cabo la construcción del sistema Web, la cual contará con interfaces intuitivas y fácil de usar. A través de estas interfaces los usuarios interactuarán con el modelo ML, utilizando un agente de Voz, y que los inputs del usuario serán recolectados a través de unas conversaciones en tiempo real. Adicionalmente se contempla el diseño del Backoffice del sistema para la gestión estadística y administrativa del sistema.
+
+### Fase 5: Desarrollo de API REST (11 - 13):
+
+Para esta fase, se procede con el desarrollo de la Api RestFull mediante las cual se llevará la comunicación entre Frontend y el Modelo de Machine Learning. Esta Api se construirá haciendo uso de los principios REST, con el objetivo de garantizar la escalabilidad, eficiencia y la facilidad para integración con otros sistemas. Además, se incluirán medidas de seguridad que garanticen la integridad de los datos de los usuarios.
+
+### Fase 6: Validación y Pruebas Finales (14 - 15):
+
+En esta última fase se contemplan dos grupos de pruebas, el primer grupo estará enfocado a validar toda la usabilidad de la plataforma desarrollada, y el segundo grupo seria enfocadas a pruebas complementarias a la fase 3, es decir, se utilizarán los datos reales obtenido en la Fase 2 y se variarán los modelos analizando la efectividad en cada caso.
+
+
+
+
 
 ---
 
