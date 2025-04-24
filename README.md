@@ -72,7 +72,7 @@ Teniendo en cuenta lo anteriormente expuesto, y debido al enfoque del uso de los
 
 * Validar el funcionamiento del sistema en entornos controlados y condiciones de uso reales, siguiendo protocolos científicos de valor y estándares de calidad.
 
----
+<!-- ---
 
 # 3. Introducción
 
@@ -88,11 +88,11 @@ Sitúa al lector dentro del contexto del problema, explicando su relevancia.
 
 **Ejemplo:**
 
-La detección temprana de fallos en motores industriales es crítica para reducir tiempos de inactividad...
+La detección temprana de fallos en motores industriales es crítica para reducir tiempos de inactividad... -->
 
 ---
 
-# 4. Metodología
+# 5. Metodología
 
 <!-- **Qué contiene:**
 
@@ -144,7 +144,7 @@ En esta última fase se contemplan dos grupos de pruebas, el primer grupo estar�
 
 ---
 
-# 5. Resultados
+# 6. Resultados
 
 **Qué contiene:**
 
@@ -160,7 +160,7 @@ El modelo de red neuronal alcanzó una precisión del 95% en la identificación 
 
 ---
 
-# 6. Discusión
+# 7. Discusión
 
 **Qué contiene:**
 
@@ -178,7 +178,7 @@ Los resultados indican que el modelo basado en redes neuronales es superior a lo
 
 ---
 
-# 7. Conclusiones
+# 8. Conclusiones
 
 **Qué contiene:**
 
@@ -195,7 +195,7 @@ En conclusión, el modelo propuesto mejora significativamente la detección temp
 
 ---
 
-# 8. Referencias
+# 9. Referencias
 
 - Nagarajan I., L. P. (2025). A comprehensive review on early detection of Alzheimer's disease using various deep learning techniques. Frontiers in Computer Science, 6.
 
