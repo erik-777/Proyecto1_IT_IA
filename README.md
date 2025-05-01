@@ -146,7 +146,7 @@ En esta última fase se contemplan dos grupos de pruebas, el primer grupo estar�
 
 # 6. Resultados
 
-**Qué contiene:**
+<!-- **Qué contiene:**
 
 - Presentación de los hallazgos obtenidos.  
 - Tablas, gráficos y figuras para ilustrar los resultados.
@@ -156,7 +156,12 @@ Presenta las evidencias obtenidas durante la investigación, permitiendo entende
 
 **Ejemplo:**
 
-El modelo de red neuronal alcanzó una precisión del 95% en la identificación de fallos...
+El modelo de red neuronal alcanzó una precisión del 95% en la identificación de fallos... -->
+
+1.	Modelo de Machine Learning Optimizado para la detección temprana de Signos Neurocognitivos relacionados con la EA.
+2.	Plataforma Web para la Interacción con el Modelo ML, Operativa, Segura y Escalable.
+3.	Validación experimental con resultados estadísticamente significativos.
+
 
 ---
 
