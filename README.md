@@ -15,7 +15,7 @@
 
 # 2. Abstract (Resumen)
 
-En la actualidad, debidos a los avances tecnológico, día a día las personas están más cerca y más dependiente de la tecnología, siendo común ver como los diferentes campos del conocimiento se van adaptando cada vez con más rapidez y precisión. 
+En la actualidad, debidos a los avances tecnológico, día a día las personas están más cerca y más dependiente de la tecnología, siendo común ver como los diferentes campos del conocimiento se van adaptando cada vez con más rapidez y precisión.
 
 Por esta razón, la tecnología avanza a pasos agigantados buscando desarrollar herramientas que permitan hacer más sencilla las tareas en cada uno de los campos de acción.
 
